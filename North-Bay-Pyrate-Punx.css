@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: none;
-  min-height: 675px;
+  min-height: 685px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -108,6 +108,7 @@
 
 .u-section-1 .u-text-12 {
   font-size: 1.25rem;
+  font-weight: normal;
   margin: 12px 42px 0 382px;
 }
 
@@ -211,7 +212,6 @@
   .u-section-1 .u-text-12 {
     margin-right: 0;
     margin-left: 254px;
-    font-weight: normal;
   }
 
   .u-section-1 .u-layout-cell-2 {
