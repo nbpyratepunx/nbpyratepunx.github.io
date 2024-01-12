@@ -239,7 +239,7 @@
 
   .u-section-1 .u-text-1 {
     width: 340px;
-    margin-top: 54px;
+    margin-top: 32px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -247,15 +247,16 @@
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 434px;
+    margin-top: 30px;
   }
 
   .u-section-1 .u-text-2 {
     width: 340px;
-    margin-top: 28px;
+    margin-top: 32px;
   }
 
   .u-section-1 .u-image-2 {
-    margin-top: 20px;
+    margin-top: 36px;
   }
 
   .u-section-1 .u-layout-cell-2 {
